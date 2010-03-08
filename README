@@ -1,0 +1,7 @@
+- Install qjson developer libs
+
+in Mandriva :
+
+#urpmi libqjson-devel
+
+
