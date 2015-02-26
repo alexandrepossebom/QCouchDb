@@ -1,3 +1,7 @@
+Its a driver for use CouchDB with qt4.
+
+** DEPRECATED !!!
+
 - Install qjson developer libs
 
 in Mandriva :
